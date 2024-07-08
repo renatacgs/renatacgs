@@ -1,4 +1,4 @@
-## Oie! Sou a Renata Cristina, atualmente aluna de Ciência da Computação e Desenvolvedora Front-end :D 
+## Oie! Sou a Renata Cristina, atualmente aluna de Sistemas de Informação, desenvolvedora front-end e SRE/DevOps :D 
 <div align="center">
   <a href="https://github.com/renatacgs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatacgs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
